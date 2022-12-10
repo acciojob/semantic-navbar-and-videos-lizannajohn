@@ -1,2 +1,11 @@
-
 /* Your CSS Code here. */
+.video
+{
+    height: 250px;
+    width: 500px;
+}
+
+li
+{
+    display: inline-block;
+}
